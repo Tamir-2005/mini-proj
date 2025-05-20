@@ -1,2 +1,0 @@
-# mini-proj
-powerbi
